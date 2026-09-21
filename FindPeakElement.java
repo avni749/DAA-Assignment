@@ -1,4 +1,4 @@
-FindPeakElement -->
+//FindPeakElement -->
 
   class Solution {
     public int findPeakElement(int[] nums) {
