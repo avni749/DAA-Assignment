@@ -1,4 +1,4 @@
-Search2DMatrix -->
+//Search2DMatrix -->
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
         int rows = matrix.length;
